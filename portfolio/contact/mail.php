@@ -3,7 +3,6 @@
 
 /*
 
-/*
 //get data from form
 
 $name = $_POST['Full-name'];
@@ -23,7 +22,6 @@ if($email!=NULL){
 //redirect
 header("Location:thankyou.html");
 
-*/
 
     //if(isset($_POST['submit'])){
         $name=$_POST['Full-name'];
