@@ -1,4 +1,8 @@
+
 <?php
+
+/*
+
 /*
 //get data from form
 
@@ -39,4 +43,7 @@ header("Location:thankyou.html");
             echo "Something went wrong!";
         }
     //}
+
+*/
+    
 ?>
